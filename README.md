@@ -17,7 +17,14 @@ Article Code
 - Temperature and bleaching number plots
 
 Article Code Markdown
-- R Studio Markdown file 
+- R Studio Markdown file
+
+Figures
+- Individual files of each individual figure
+-   Figure 1
+-   Figure 2
+-   Figure 3
+-   Figure 4
 
 Article Dataset
 - Dataset used for analysis. Not all factors utilised in final analysis but listed here:
