@@ -21,8 +21,8 @@ Article Code Markdown
 - pdf
 - html
 
-Article Database
-- Database used for analysis. Not all factors utilised in final analysis but listed here:
+Article Dataset
+- Dataset used for analysis. Not all factors utilised in final analysis but listed here:
 -   Observation ID - Unique identifier for each observation
 -   Behaviour - Specific behaviour recorded
 -   Subject - Rank level of individual fish within the recorded social group
