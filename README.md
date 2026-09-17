@@ -6,14 +6,13 @@ This repository consists of multiple data files relating the the research articl
 Here is the list of files present in the repository and the data they contain: 
 
 Anemonefish_prioritise_mutualistic_partner_over_social_group_during_marine_heatwave-Supplementary_Materials.docx
-- Supplementary data tables which have been referred to in the main manuscript. Consisting of full model outputs and posthoc testing.
+- Supplementary data tables which have been referred to in the main manuscript. Consisting of full ethogram, model outputs and posthoc testing.
 
 Article Code
 - RStudio Code which includes:
 - Data Prep
 - Activity Level Model and Raincloud plots
-- Behavioural Proportion and plot
-- Specific Behaviour models and individual plots, with combination plot
+- Behavioural Categorical Rates and Plot
 - Temperature and bleaching number plots
 
 Article Code Markdown
