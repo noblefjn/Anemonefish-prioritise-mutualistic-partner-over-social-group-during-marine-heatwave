@@ -15,15 +15,12 @@ Article Code
 - Behavioural Categorical Rates and Plot
 - Temperature and bleaching number plots
 
-Article Code Markdown
-- R Studio Markdown file
 
 Figures
 - Individual files of each individual figure
 -   Figure 1
 -   Figure 2
 -   Figure 3
--   Figure 4
 
 Article Dataset
 - Dataset used for analysis. Not all factors utilised in final analysis but listed here:
@@ -46,11 +43,4 @@ Article Dataset
 - N_fish - Count of fish within the group
 - Bleached Overall - Bleached status of the anemone during the bleaching event (Timepoint 2)
 - Anemone Area - Area of the anemone's oral disc
-- Average_pH - Average pH recorded at anemone during the timepoint
-- Average Salinity - Average salinity at anemone during the timepoint
-- Average Lux - Average light intensity recorded at anemone during the timepoint
 - Day Temp - Temperature recorded on the day of observation at the anemone
-- Lunar Range - Range of temperature experienced during that lunar month
-- Lunar Mean - Average temperature recorded during that lunar month
-- Lunar Max - Max temperature recorded during that lunar month
-- Thermal Exposure - degree heating hours experienced by the fish/anemone during that timepoint 
